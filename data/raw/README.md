@@ -1,0 +1,1 @@
+Data was obtained from [Kaggle website](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge)
