@@ -9,7 +9,7 @@ This project is competition in Kaggle [COVID-19 Open Research Dataset Challenge 
 
 Covid 19             |  Topic modeling
 :-------------------------:|:-------------------------:
-<img src="https://media.nature.com/lw100/magazine-assets/d41586-021-02261-8/d41586-021-02261-8_19552098.gif" width="600">  |  ![Alt text](image-1.png)
+![Alt text](https://media.nature.com/lw100/magazine-assets/d41586-021-02261-8/d41586-021-02261-8_19552098.gif) |  ![Alt text](image-1.png)
 
 
 #### -- Project Status: [Completed]
